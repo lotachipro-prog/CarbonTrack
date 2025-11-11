@@ -19,6 +19,6 @@ This platform is being built using a modern, cloud-native data stack:
 * **Frontend:** A `Streamlit` dashboard for data visualisation.
 
 ## 4. Project Status & Live Demo
-* **Live Demo App:** [Link will go here]
+* **Live Demo App:** [[Link will go here]](https://usecarbontrack.streamlit.app/)
 * **Technical Blog Post:** [Link will go here]
 * **Published Academic Paper:** [Link will go here]
